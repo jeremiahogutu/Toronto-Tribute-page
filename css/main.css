@@ -71,7 +71,10 @@ body, html {
 @media(max-width: 568px) {
 	.pimg1, .pimg2, .pimg3 {
 		background-attachment: scroll;
-		height: 500px;
-}
+
+	}
+
+	.section {
+		padding: 20px 20px;
 	}
 }
